@@ -48,21 +48,25 @@
 ### Telas
 
 - Login
+
 ![Tela de login](https://i.imgur.com/onHPhS2.png)
 
 
 
 - Tela de recompensas
+
 ![Tela de recompensas](https://i.imgur.com/2BF2lYL.png)
 
 
 
 - Tela de informações
+
 ![Tela de informações](https://i.imgur.com/4S7dGtr.png)
 
 
 
 - Tela do feed
+
 ![Tela do feed](https://i.imgur.com/Q21Vxsh.png)
 
 
