@@ -50,4 +50,13 @@
 - Login
 ![Tela de Login](https://imgur.com/onHPhS2)
 
+- Tela de recompensas
+![Tela de recompensas](https://imgur.com/2BF2lYL)
+
+- Tela de informações
+![Tela de informações](https://imgur.com/4S7dGtr)
+
+- Tela do feed
+![Tela do feed](https://imgur.com/Q21Vxsh)
+
 
