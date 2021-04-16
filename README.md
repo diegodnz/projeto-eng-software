@@ -48,6 +48,6 @@
 ### Telas
 
 - Login
-<img src="https://imgur.com/onHPhS2" alt="Tela de login">
+[Imgur](https://imgur.com/onHPhS2)
 
 
