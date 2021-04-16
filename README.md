@@ -70,4 +70,25 @@
 ![Tela do feed](https://i.imgur.com/Q21Vxsh.png)
 
 
+- Tela de perfil
+
+![Tela do perfil](https://i.imgur.com/TcgpXa5.png)
+
+
+- Tela de marcação de horário
+
+![Tela de marcação de horário](https://i.imgur.com/eQd4zr6.png)
+
+
+- Tela das fichas de treino
+
+![Tela de fichas de treino](https://i.imgur.com/NAUxA3c.png)
+
+- Tela de cadastro de treino
+
+![Tela de cadastro de horário](https://i.imgur.com/K9jsWpp.png)
+
+
+
+
 
