@@ -48,11 +48,6 @@
 ### Telas
 
 - Login
-javascript
-{
-    imageUpload    : false,
-    imageFormats   : ["pnh"],
-    imageUploadURL : "https://imgur.com/onHPhS2",
-}
+<img src="https://imgur.com/onHPhS2" alt="Tela de login">
 
 
