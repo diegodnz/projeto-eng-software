@@ -48,7 +48,7 @@
 ### Telas
 
 - Login
-[Imgur](https://imgur.com/onHPhS2)
+![Tela de login](https://i.imgur.com/onHPhS2.png)
 
 - Tela de recompensas
 ![Tela de recompensas](https://imgur.com/2BF2lYL)
