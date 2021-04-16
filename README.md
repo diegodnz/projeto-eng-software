@@ -48,6 +48,6 @@
 ### Telas
 
 - Login
-<blockquote class="imgur-embed-pub" lang="en" data-id="onHPhS2"><a href="https://imgur.com/onHPhS2">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Tela de Login](https://imgur.com/onHPhS2)
 
 
