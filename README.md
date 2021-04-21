@@ -47,6 +47,8 @@
 
 ### Telas
 
+[Aviso] As telas ainda podem sofrer alterações.
+
 - Login
 
 ![Tela de login](https://i.imgur.com/onHPhS2.png)
@@ -87,6 +89,31 @@
 - Tela de cadastro de treino
 
 ![Tela de cadastro de horário](https://i.imgur.com/K9jsWpp.png)
+
+- Tela de atualização de medidas
+
+![Tela de aturalização de medidas](https://i.imgur.com/myrCJRP.png)
+
+- Tela de inserção de recompensas
+
+![Tela de inserção de recompensas](https://i.imgur.com/IIEWp4X.png)
+
+- Tela de publicação no feed.
+
+![Tela de inserção de recompensas](https://i.imgur.com/XxelFGS.png)
+
+- Tela de dashboard.
+
+![Dashboard](https://i.imgur.com/MlGwmr0.png)
+
+- Tela de Acesso à academia.
+
+![Acesso à academia](https://i.imgur.com/SpE3RYq.png)
+
+- Tela de busca de usuário.
+
+![Busca de usuário](https://i.imgur.com/A534z9d.png)
+
 
 
 
