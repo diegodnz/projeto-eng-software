@@ -112,7 +112,7 @@
 
 - Tela de busca de usuário.
 
-![Busca de usuário](https://i.imgur.com/A534z9d.png)
+![Busca de usuário](https://i.imgur.com/kGeHVFX.png
 
 
 
