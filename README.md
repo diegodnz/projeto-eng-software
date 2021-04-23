@@ -88,7 +88,7 @@
 
 - Tela de cadastro de treino
 
-![Tela de cadastro de horário](https://i.imgur.com/K9jsWpp.png)
+![Tela de cadastro de treino](https://i.imgur.com/WMfGzRu.png)
 
 - Tela de atualização de medidas
 
@@ -112,7 +112,7 @@
 
 - Tela de busca de usuário.
 
-![Busca de usuário](https://i.imgur.com/kGeHVFX.png
+![Busca de usuário](https://i.imgur.com/kGeHVFX.png)
 
 
 
