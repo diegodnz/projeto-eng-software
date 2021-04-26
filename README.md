@@ -3,6 +3,9 @@
 ### Frontend: https://github.com/Pgsalbuquerque/DreamFit
 ### Backend: https://github.com/diegodnz/dreamfit-backend
 -------
+-------
+### Medium: https://gss9.medium.com/projeto-de-engenharia-de-software-academia-dreamfit-412f5627e91d
+-------
 ## Equipe:
 - Alisson Diego (adddf@cin.ufpe.br)
 - Pedro Albuquerque (pgsa@cin.ufpe.br)
