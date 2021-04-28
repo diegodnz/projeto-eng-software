@@ -1,6 +1,7 @@
 # Projeto de engenharia de software 2021.1
 
 ### O Site: https://dream-fit.vercel.app/
+### OBS: Para logar no sistema é necessário ser cadastrado pelo ADMIN (que seria a conta da academia), que está em posse dos integrantes da equipe.
 -------
 ### Frontend: https://github.com/Pgsalbuquerque/DreamFit
 ### Backend: https://github.com/diegodnz/dreamfit-backend
