@@ -2,7 +2,8 @@
 
 ### O Site: https://dream-fit.vercel.app/
 -------
-### Exemplos de contas para logar (A criação de um novo usuário no sistema deve ser feita pela conta com permissão de ADMIN, que seria a conta da academia)
+### Exemplos de contas para logar 
+*A criação de um novo usuário no sistema deve ser feita pela conta com permissão de ADMIN, que seria a conta da academia*
 
 Usuário com permissão de professor: `cpf: 87803418880 password: 99321587`
 
